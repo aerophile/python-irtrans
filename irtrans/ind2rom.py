@@ -17,7 +17,7 @@ import warnings
 import numpy as np
 
 from ._decode import viterbi
-import wxconv as wxConvert
+from wxconv import WXC as wxConvert
 
 warnings.filterwarnings("ignore")
 
